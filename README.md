@@ -55,6 +55,12 @@ I also have hands-on experience with **IT support / help desk**, troubleshooting
 
 ---
 
+<div align="center">
+  <img src="./assets/spider-banner.jpeg" width="100%" alt="Spider crawler banner">
+</div>
+
+---
+
 ## Main interests
 
 - Application Security
