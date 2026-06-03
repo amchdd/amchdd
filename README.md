@@ -107,4 +107,4 @@ My approach is simple: stay disciplined, study the fundamentals, build consisten
 
 ## Connect with me
 
-- Email: `alisson.amc@outlook.com`
+- Email: `alissonmc.dev@gmail.com`
