@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="./assets/digital-skull.gif" width="260" alt="Digital skull animation">
+<img src="./assets/profile-banner.gif" width="100%" alt="Monochrome cyberpunk profile banner">
 
 # Alisson Machado
 
 **Cybersecurity student focused on AppSec, OffSec, web security and automation.**
 
 `break to understand | build to harden | repeat`
+
+<img src="./assets/dedsec-banner.jpeg" width="520" alt="Retro terminal dialog banner">
 
 </div>
 
@@ -37,6 +39,7 @@ I also have hands-on experience with **IT support / help desk**, troubleshooting
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
 ![Automation](https://img.shields.io/badge/Automation-111111?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![Binary](https://img.shields.io/badge/Binary-111111?style=for-the-badge&logo=opsgenie&logoColor=FFFFFF)
+![Spidering](https://img.shields.io/badge/Spidering-111111?style=for-the-badge)
 
 </div>
 
@@ -55,7 +58,7 @@ I also have hands-on experience with **IT support / help desk**, troubleshooting
 ---
 
 <div align="center">
-  <img src="./assets/number-sphere.gif" width="220" alt="Animated number sphere">
+  <img src="./assets/spider-banner.jpeg" width="100%" alt="Spider crawler banner">
 </div>
 
 ---
@@ -70,6 +73,9 @@ I also have hands-on experience with **IT support / help desk**, troubleshooting
 - Exploit Research
 - Recon and automation
 - AI applied to cybersecurity
+- Spider-style crawlers, mapping and discovery tools
+
+I also have a fascination with spiders, both the real ones and the "spider" tools that crawl applications, map attack surfaces and reveal hidden paths.
 
 ---
 
@@ -92,7 +98,7 @@ Ideas involving digital tags, inventory/logistics control and Arduino-based moni
 ## Mindset
 
 <p align="center">
-  <img src="./assets/ascii-eye.jpeg" width="360" alt="ASCII eye">
+  <img src="./assets/eye-banner.gif" width="100%" alt="Monochrome eye banner">
 </p>
 
 I like learning how things break because that is where the deeper lessons usually are.
