@@ -28,7 +28,7 @@ I also have hands-on experience with **IT support / help desk**, troubleshooting
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=CE412B)
 ![Go](https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
@@ -37,7 +37,8 @@ I also have hands-on experience with **IT support / help desk**, troubleshooting
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
 ![Automation](https://img.shields.io/badge/Automation-111111?style=for-the-badge&logo=gnubash&logoColor=4EAA25) 
 ![Binary](https://img.shields.io/badge/Binary-111111?style=for-the-badge&logo=opsgenie&logoColor=FFFFFF)        
-![Spidering](https://img.shields.io/badge/Spidering-111111?style=for-the-badge)
+![IA](https://img.shields.io/badge/IA-111111?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+![n8n](https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=EA4B71)
 
 </div>
 
@@ -108,3 +109,4 @@ My approach is simple: stay disciplined, study the fundamentals, build consisten
 ## Connect with me
 
 - Email: `alissonmc.dev@gmail.com`
+- LinkedIn: [www.linkedin.com/in/amchdd](https://www.linkedin.com/in/amchdd)
