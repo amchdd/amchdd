@@ -108,5 +108,5 @@ My approach is simple: stay disciplined, study the fundamentals, build consisten
 
 ## Connect with me
 
-- Email: `alissonmc.dev@gmail.com`
+- Email: [alissonmc.dev@gmail.com](mailto:alissonmc.dev@gmail.com)
 - LinkedIn: [www.linkedin.com/in/amchdd](https://www.linkedin.com/in/amchdd)
