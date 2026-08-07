@@ -12,6 +12,8 @@
 
 ---
 
+<img align="left" src="./assets/decor/brain.png" width="190" alt="Ilustração monocromática de um cérebro">
+
 ## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira em cibersegurança.
@@ -20,7 +22,11 @@ Meu foco atual é entender como softwares, redes e aplicações web falham, para
 
 Também tenho experiência prática com **suporte de TI e help desk**, resolução de problemas, redes, Windows, Linux e atendimento técnico. Essa experiência me ajuda a abordar segurança com uma visão prática e sistêmica.
 
+<br clear="both">
+
 ---
+
+<img align="right" src="./assets/decor/eye.png" width="190" alt="Ilustração monocromática de um olho">
 
 ## Stack e ferramentas
 
@@ -42,7 +48,11 @@ Também tenho experiência prática com **suporte de TI e help desk**, resoluç�
 
 </div>
 
+<br clear="both">
+
 ---
+
+<img align="left" src="./assets/decor/statue.png" width="180" alt="Busto clássico monocromático">
 
 ## Atualmente estudando
 
@@ -54,6 +64,8 @@ Também tenho experiência prática com **suporte de TI e help desk**, resoluç�
 - Automação de reconhecimento e scripts com Python
 - Desempenho, testes e boas práticas no desenvolvimento de ferramentas
 
+<br clear="both">
+
 ---
 
 <div align="center">
@@ -61,6 +73,8 @@ Também tenho experiência prática com **suporte de TI e help desk**, resoluç�
 </div>
 
 ---
+
+<img align="right" src="./assets/decor/mask.png" width="180" alt="Máscara teatral monocromática">
 
 ## Principais interesses
 
@@ -75,6 +89,8 @@ Também tenho experiência prática com **suporte de TI e help desk**, resoluç�
 - Crawlers, mapeamento e ferramentas de descoberta inspiradas em aranhas
 
 Também tenho fascínio por aranhas, tanto pelas reais quanto pelas ferramentas do tipo "spider", que percorrem aplicações, mapeiam superfícies de ataque e revelam caminhos ocultos.
+
+<br clear="both">
 
 ---
 
