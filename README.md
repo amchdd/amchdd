@@ -28,7 +28,7 @@ Também tenho experiência prática com **suporte de TI e help desk**, resoluç�
 
 ### Stack e ferramentas
 
-#### Linguagens e dados
+#### Linguagens e web
 
 <div align="left">
 
@@ -38,10 +38,17 @@ Também tenho experiência prática com **suporte de TI e help desk**, resoluç�
 ![Go](https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=CE412B)
 ![HTML](https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+
+</div>
+
+#### Dados e backend
+
+<div align="left">
+
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![NoSQL](https://img.shields.io/badge/NoSQL-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=FF4438)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 
 </div>
 
@@ -56,7 +63,7 @@ Também tenho experiência prática com **suporte de TI e help desk**, resoluç�
 
 </div>
 
-#### Desenvolvimento e infraestrutura
+#### Versionamento, DevOps e infraestrutura
 
 <div align="left">
 
@@ -64,8 +71,8 @@ Também tenho experiência prática com **suporte de TI e help desk**, resoluç�
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=FF4438)
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-111111?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 
 </div>
