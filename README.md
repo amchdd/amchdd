@@ -63,6 +63,15 @@ Também tenho experiência prática com **suporte de TI e help desk**, resoluç�
 
 </div>
 
+#### Ferramentas de desenvolvimento e API
+
+<div align="left">
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+</div>
+
 #### Versionamento, DevOps e infraestrutura
 
 <div align="left">
