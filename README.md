@@ -155,4 +155,3 @@ Minha abordagem é simples: estudar os fundamentos, construir com consistência,
 ## Entre em contato
 
 - E-mail: [alissonmc.dev@gmail.com](mailto:alissonmc.dev@gmail.com)
-- LinkedIn: [www.linkedin.com/in/amchdd](https://www.linkedin.com/in/amchdd)
