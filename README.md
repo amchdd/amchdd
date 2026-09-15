@@ -158,7 +158,7 @@ Tenho fascínio por aranhas, tanto pelas reais quanto pelas ferramentas do tipo 
 
 ## Projetos em destaque
 
-### Doces da Mari · projeto privado
+### [Doces da Mari](https://docesdamari.com.br/) · código privado
 
 Aplicação de **catálogo e encomendas** com painel de gestão de produtos, categorias e pedidos. Desenvolvida com **React, Vite, TypeScript e Tailwind CSS** no frontend; **Node.js, Express, PostgreSQL e Drizzle ORM** na API e nos dados; **Supabase Storage** para imagens e **Redis** para controles temporários. Inclui autenticação administrativa e testes de segurança.
 
