@@ -20,6 +20,8 @@ Meu foco é entender como softwares, redes e aplicações web falham para desenv
 
 Também tenho experiência prática com **suporte de TI e help desk**, resolução de problemas, redes, Windows, Linux e atendimento técnico, o que me ajuda a abordar segurança com uma visão prática e sistêmica.
 
+No desenvolvimento, construo aplicações web da interface à API e ao banco de dados, com atenção à autenticação, à manutenção e aos testes.
+
 <br clear="both">
 
 ---
@@ -41,11 +43,25 @@ Também tenho experiência prática com **suporte de TI e help desk**, resoluç�
 
 </div>
 
+#### Aplicações web
+
+<div align="left">
+
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=FFFFFF)
+
+</div>
+
 #### Dados e backend
 
 <div align="left">
 
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-111111?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 ![NoSQL](https://img.shields.io/badge/NoSQL-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=003B57)
 ![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
@@ -141,6 +157,10 @@ Tenho fascínio por aranhas, tanto pelas reais quanto pelas ferramentas do tipo 
 ---
 
 ## Projetos em destaque
+
+### Doces da Mari · projeto privado
+
+Aplicação de **catálogo e encomendas** com painel de gestão de produtos, categorias e pedidos. Desenvolvida com **React, Vite, TypeScript e Tailwind CSS** no frontend; **Node.js, Express, PostgreSQL e Drizzle ORM** na API e nos dados; **Supabase Storage** para imagens e **Redis** para controles temporários. Inclui autenticação administrativa e testes de segurança.
 
 ### [Subdomainabber](https://github.com/amchdd/subdomainabber)
 
