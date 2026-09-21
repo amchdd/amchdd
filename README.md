@@ -20,7 +20,7 @@ Tenho interesse em AppSec, segurança web e automação. Também estudo Python p
 
 ### Projetos
 
-**[Doces da Mari](https://docesdamari.com.br/)** · [repositório privado](https://github.com/amchdd/Doces-Mari)
+**[Doces da Mari](https://docesdamari.com.br/)** · código privado
 
 Catálogo e sistema de encomendas com painel para administrar produtos, categorias e pedidos. Trabalhei na interface em React e TypeScript e na API em Node.js e Express, com PostgreSQL para os dados, Supabase Storage para imagens e Redis para controles temporários. O projeto inclui autenticação administrativa e testes de segurança.
 
