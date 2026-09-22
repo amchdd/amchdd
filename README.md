@@ -2,9 +2,12 @@
 
 # Alisson Machado
 
-**Desenvolvimento de Software · Segurança de Aplicações · Automação**
+**Cibersegurança · Segurança de Aplicações · Automação**
 
-Estudante de Análise e Desenvolvimento de Sistemas, com experiência em suporte de TI e foco em desenvolvimento web e cibersegurança.
+Estudante de Análise e Desenvolvimento de Sistemas  
+Experiência em suporte de TI, desenvolvimento web e prática em segurança.
+
+**Em busca de uma oportunidade de estágio em cibersegurança.**
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-bl1tzz-212C42?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF)](https://tryhackme.com/p/bl1tzz)
 [![Intigriti](https://img.shields.io/badge/Intigriti-Bug%20Bounty-4338CA?style=for-the-badge&logo=intigriti&logoColor=FFFFFF)](https://www.intigriti.com/)
@@ -14,39 +17,45 @@ Estudante de Análise e Desenvolvimento de Sistemas, com experiência em suporte
 
 ---
 
-## Sobre mim
+## Perfil
 
-Desenvolvo aplicações web e ferramentas de automação, com interesse em segurança de aplicações (AppSec), análise de APIs e investigação de vulnerabilidades. Meus projetos combinam desenvolvimento de interfaces, construção de APIs e integração com bancos de dados, com atenção à autenticação, à validação de dados e à documentação técnica.
+Minha trajetória reúne **suporte de TI, desenvolvimento de software e estudos em cibersegurança**. A experiência em help desk me ensinou a investigar problemas, compreender o contexto do usuário e comunicar soluções com clareza. No desenvolvimento, construo aplicações e APIs, o que me ajuda a analisar decisões de implementação e seus impactos na segurança.
 
-Minha experiência em suporte de TI e help desk contribuiu para uma abordagem estruturada de diagnóstico, resolução de problemas e comunicação com usuários. Atualmente, aprofundo esses conhecimentos em projetos próprios e em laboratórios do **TryHackMe**, conectando fundamentos de desenvolvimento e segurança.
+Pratico em laboratórios do **TryHackMe** e participo de programas de **bug bounty na Intigriti**, respeitando os escopos de cada programa. Tenho interesse em segurança de aplicações (AppSec), análise de logs e investigação de vulnerabilidades, além de conhecimentos em Windows, Linux e automação com n8n.
 
-Também participo de programas de **bug bounty na Intigriti**, com foco na pesquisa de vulnerabilidades dentro dos escopos definidos por cada programa.
+Busco um estágio em que possa contribuir com essa base técnica, aprender com a equipe e aprofundar minha atuação em segurança.
 
-## Conhecimentos e ferramentas
+## Projetos e prática
 
-### Desenvolvimento
+### [Subdomainabber](https://github.com/amchdd/subdomainabber)
 
-![Go](https://img.shields.io/badge/Go-18181B?style=flat-square&logo=go&logoColor=00ADD8)
-![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-18181B?style=flat-square&logo=vite&logoColor=646CFF)
-![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=FFFFFF)
+**Investigação de subdomínios · Go · SQLite**
 
-### Dados e infraestrutura
+Desenvolvi uma ferramenta para investigar possíveis casos de takeover de subdomínio em escopos autorizados.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1)
-![SQLite](https://img.shields.io/badge/SQLite-18181B?style=flat-square&logo=sqlite&logoColor=57A5E1)
-![Redis](https://img.shields.io/badge/Redis-18181B?style=flat-square&logo=redis&logoColor=FF4438)
-![Supabase Storage](https://img.shields.io/badge/Supabase%20Storage-18181B?style=flat-square&logo=supabase&logoColor=3FCF8E)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-18181B?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Vercel](https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=FFFFFF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-18181B?style=flat-square&logo=cloudflare&logoColor=F38020)
+- Correlaciona observações de **DNS, HTTP e TLS** para apoiar a análise.
+- Registra evidências e mantém um histórico das investigações em SQLite.
+- Diferencia indícios de vulnerabilidade de evidências de controle, com atenção à precisão dos resultados.
+
+**Conhecimentos aplicados:** protocolos de rede, análise de evidências, automação e documentação técnica.
+
+### [Doces da Mari](https://docesdamari.com.br/)
+
+**Desenvolvimento web com controles de segurança · Repositório privado**
+
+Desenvolvi uma aplicação de catálogo e gestão de encomendas, com interface em React e TypeScript, API em Node.js e Express e persistência em PostgreSQL.
+
+- Implementei autenticação administrativa e testes de segurança.
+- Trabalhei na configuração de domínio, TLS e proteção do painel com Cloudflare e Vercel.
+- Integrei armazenamento de imagens com Supabase Storage e controles temporários com Redis.
+
+**Conhecimentos aplicados:** segurança de aplicações, integração de APIs, autenticação e configuração de ambientes.
+
+## Conhecimentos técnicos
 
 ### Segurança e análise de APIs
 
-Conhecimentos aplicados em estudos, projetos próprios, laboratórios e programas de bug bounty.
+Ferramentas com as quais tenho familiaridade, utilizadas conforme o contexto de estudo e prática.
 
 | Área | Ferramentas |
 | :--- | :--- |
@@ -60,38 +69,40 @@ Conhecimentos aplicados em estudos, projetos próprios, laboratórios e programa
 
 ### Sistemas operacionais e virtualização
 
+![Windows](https://img.shields.io/badge/Windows-18181B?style=flat-square)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-18181B?style=flat-square&logo=kalilinux&logoColor=557C94)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-18181B?style=flat-square&logo=archlinux&logoColor=1793D1)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-18181B?style=flat-square&logo=virtualbox&logoColor=83B9EB)
 ![VMware](https://img.shields.io/badge/VMware-18181B?style=flat-square)
 
-## Projetos em destaque
+### Desenvolvimento e automação
 
-### [Doces da Mari](https://docesdamari.com.br/)
+![Go](https://img.shields.io/badge/Go-18181B?style=flat-square&logo=go&logoColor=00ADD8)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-18181B?style=flat-square&logo=vite&logoColor=646CFF)
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=FFFFFF)
+![n8n](https://img.shields.io/badge/n8n-18181B?style=flat-square&logo=n8n&logoColor=EA4B71)
 
-**Aplicação web para catálogo e gestão de encomendas** · Repositório privado
+### Dados e infraestrutura
 
-Sistema com painel administrativo para gerenciamento de produtos, categorias e pedidos. Desenvolvimento da interface em React e TypeScript e da API em Node.js e Express, com PostgreSQL, armazenamento de imagens no Supabase Storage e Redis para controles temporários.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-18181B?style=flat-square&logo=sqlite&logoColor=57A5E1)
+![Redis](https://img.shields.io/badge/Redis-18181B?style=flat-square&logo=redis&logoColor=FF4438)
+![Supabase Storage](https://img.shields.io/badge/Supabase%20Storage-18181B?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-18181B?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Vercel](https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-18181B?style=flat-square&logo=cloudflare&logoColor=F38020)
 
-O projeto contempla autenticação administrativa, testes de segurança e configuração de implantação, domínio, TLS e proteção do painel com Vercel e Cloudflare.
+## Aprendizado contínuo
 
-### [Subdomainabber](https://github.com/amchdd/subdomainabber)
-
-**Ferramenta de investigação de subdomínios** · Go e SQLite
-
-Ferramenta para investigar possíveis casos de takeover de subdomínio em escopos autorizados. Correlaciona informações de DNS, HTTP e TLS, registra evidências e mantém o histórico das análises em SQLite.
-
-A apresentação dos resultados diferencia indícios de vulnerabilidade de evidências de controle, priorizando precisão e rastreabilidade.
-
-## Formação prática e estudos
-
-- **Intigriti:** participação em programas de bug bounty e pesquisa de vulnerabilidades.
 - **TryHackMe:** prática de fundamentos de cibersegurança e análise de aplicações em laboratórios.
-- **Segurança de aplicações:** aprofundamento em segurança web, APIs e controles de autenticação.
-- **Python:** desenvolvimento de scripts e automação.
-- **Rust:** estudo dos fundamentos da linguagem.
+- **Intigriti:** pesquisa de vulnerabilidades em programas de bug bounty.
+- **Segurança web e APIs:** aprofundamento em autenticação, validação de dados e análise de requisições.
+- **Python e Rust:** estudo de Python para scripts e automação e dos fundamentos de Rust.
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-18181B?style=flat-square&logo=tryhackme&logoColor=EF4444)
 ![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=3776AB)
 ![Rust](https://img.shields.io/badge/Rust-18181B?style=flat-square&logo=rust&logoColor=CE412B)
 
@@ -99,8 +110,8 @@ A apresentação dos resultados diferencia indícios de vulnerabilidade de evid�
 
 <div align="center">
 
-**Vamos conversar**
+**Oportunidades de estágio em cibersegurança**
 
-[alissonmc.dev@gmail.com](mailto:alissonmc.dev@gmail.com) · [TryHackMe / bl1tzz](https://tryhackme.com/p/bl1tzz)
+[alissonmc.dev@gmail.com](mailto:alissonmc.dev@gmail.com) · [Perfil no TryHackMe](https://tryhackme.com/p/bl1tzz)
 
 </div>
