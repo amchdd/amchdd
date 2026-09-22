@@ -7,6 +7,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas, com experiência em suporte de TI e foco em desenvolvimento web e cibersegurança.
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-bl1tzz-212C42?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF)](https://tryhackme.com/p/bl1tzz)
+[![Intigriti](https://img.shields.io/badge/Intigriti-Bug%20Bounty-4338CA?style=for-the-badge&logo=intigriti&logoColor=FFFFFF)](https://www.intigriti.com/)
 [![Contato](https://img.shields.io/badge/Contato-E--mail-2563EB?style=for-the-badge)](mailto:alissonmc.dev@gmail.com)
 
 </div>
@@ -18,6 +19,8 @@ Estudante de Análise e Desenvolvimento de Sistemas, com experiência em suporte
 Desenvolvo aplicações web e ferramentas de automação, com interesse em segurança de aplicações (AppSec), análise de APIs e investigação de vulnerabilidades. Meus projetos combinam desenvolvimento de interfaces, construção de APIs e integração com bancos de dados, com atenção à autenticação, à validação de dados e à documentação técnica.
 
 Minha experiência em suporte de TI e help desk contribuiu para uma abordagem estruturada de diagnóstico, resolução de problemas e comunicação com usuários. Atualmente, aprofundo esses conhecimentos em projetos próprios e em laboratórios do **TryHackMe**, conectando fundamentos de desenvolvimento e segurança.
+
+Também participo de programas de **bug bounty na Intigriti**, com foco na pesquisa de vulnerabilidades dentro dos escopos definidos por cada programa.
 
 ## Conhecimentos e ferramentas
 
@@ -43,16 +46,24 @@ Minha experiência em suporte de TI e help desk contribuiu para uma abordagem es
 
 ### Segurança e análise de APIs
 
-Conhecimentos aplicados em estudos, projetos próprios e laboratórios autorizados.
+Conhecimentos aplicados em estudos, projetos próprios, laboratórios e programas de bug bounty.
 
 | Área | Ferramentas |
 | :--- | :--- |
-| Análise de logs e SIEM | ![Splunk](https://img.shields.io/badge/Splunk-18181B?style=flat-square&logo=splunk&logoColor=65A637) |
+| Análise de logs e SIEM | ![Splunk](https://img.shields.io/badge/Splunk-18181B?style=flat-square&logo=splunk&logoColor=65A637) ![Elastic](https://img.shields.io/badge/Elastic-18181B?style=flat-square&logo=elastic&logoColor=FEC514) |
 | Análise de aplicações e APIs | ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-18181B?style=flat-square&logo=burpsuite&logoColor=FF6633) ![Postman](https://img.shields.io/badge/Postman-18181B?style=flat-square&logo=postman&logoColor=FF6C37) |
-| Análise de tráfego de rede | ![Wireshark](https://img.shields.io/badge/Wireshark-18181B?style=flat-square&logo=wireshark&logoColor=1679A7) |
+| Análise de redes e serviços | ![Wireshark](https://img.shields.io/badge/Wireshark-18181B?style=flat-square&logo=wireshark&logoColor=1679A7) ![Nmap](https://img.shields.io/badge/Nmap-18181B?style=flat-square) |
 | Testes de segurança em laboratório | ![Metasploit](https://img.shields.io/badge/Metasploit-18181B?style=flat-square) ![sqlmap](https://img.shields.io/badge/sqlmap-18181B?style=flat-square) |
+| Diagnóstico e análise de sistemas | ![Sysinternals](https://img.shields.io/badge/Sysinternals-18181B?style=flat-square) |
 | Auditoria de senhas | ![Hydra](https://img.shields.io/badge/Hydra-18181B?style=flat-square) ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-18181B?style=flat-square) |
 | Leitura e testes de aplicações | ![PHP](https://img.shields.io/badge/PHP-18181B?style=flat-square&logo=php&logoColor=A8B9FF) |
+
+### Sistemas operacionais e virtualização
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-18181B?style=flat-square&logo=kalilinux&logoColor=557C94)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-18181B?style=flat-square&logo=archlinux&logoColor=1793D1)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-18181B?style=flat-square&logo=virtualbox&logoColor=83B9EB)
+![VMware](https://img.shields.io/badge/VMware-18181B?style=flat-square)
 
 ## Projetos em destaque
 
@@ -74,6 +85,7 @@ A apresentação dos resultados diferencia indícios de vulnerabilidade de evid�
 
 ## Formação prática e estudos
 
+- **Intigriti:** participação em programas de bug bounty e pesquisa de vulnerabilidades.
 - **TryHackMe:** prática de fundamentos de cibersegurança e análise de aplicações em laboratórios.
 - **Segurança de aplicações:** aprofundamento em segurança web, APIs e controles de autenticação.
 - **Python:** desenvolvimento de scripts e automação.
