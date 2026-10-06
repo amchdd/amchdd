@@ -93,7 +93,7 @@ Tenho interesse em criptografia aplicada: utilizo **Argon2id para senhas**, **AE
 
 Meu foco atual é **SOC/Blue Team**: redes, Windows/Linux, análise de logs, detecção, triagem e fundamentos de resposta a incidentes. Quero aprender como os controles defensivos funcionam e como transformar alertas em investigações bem fundamentadas.
 
-Mantenho prática no [TryHackMe](https://tryhackme.com/p/bl1tzz) e formação pela **Cisco Networking Academy**, **Linux Foundation** e **C++ Institute**. Concluí Networking Basics, Networking Devices and Initial Configuration, Introduction to Cybersecurity e Junior Cybersecurity Analyst Path em 2026.
+Mantenho prática constante no [TryHackMe](https://tryhackme.com/p/bl1tzz) e formação pela **Cisco Networking Academy**, **Linux Foundation** e **C++ Institute**. Concluí os cursos de Networking Basics, Networking Devices and Initial Configuration, Introduction to Cybersecurity, Endpoint Security, Cyber Threat Management e Network Defense, o que me garantiu a certificação do **Junior Cybersecurity Analyst Path** em 2026.
 
 ## Direção de longo prazo
 
