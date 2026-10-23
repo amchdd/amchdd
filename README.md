@@ -6,9 +6,7 @@
 
 **Cibersegurança · SOC/Blue Team · Redes e automação**
 
-Busco uma oportunidade como **Analista SOC N1 ou estagiário em cibersegurança**.
-
-Quero entender como as defesas detectam, investigam e respondem a ameaças, construindo uma base sólida para avançar em pesquisa ofensiva no longo prazo.
+Try Harder.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-075C68?style=for-the-badge)](https://www.linkedin.com/in/amchdd)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-18181B?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bl1tzz)
